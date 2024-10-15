@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it using the following."
+title: "Host Viral sRNA Response Characterization"
+authors:
+  - family-names: "Stuehler"
+    given-names: "Douglas"
+version: "v1.0.0"
+date-released: 2024-10-15
+url: "https://github.com/dougiestuehler/host_viral_sRNA_response_characterization"
